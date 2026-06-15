@@ -26,6 +26,7 @@ git clone https://github.com/ub4afw/MatrixPro.git
 cd MatrixPro
 ```
 ##Структура проекта
+
 MatrixPro/
 ├── main.py                     # Основной скрипт генерации таблицы
 ├── multiplication_config.json  # Конфигурация диапазона таблицы
